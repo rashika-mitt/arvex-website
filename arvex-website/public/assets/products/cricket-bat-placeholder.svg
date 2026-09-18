@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cricket bat product photo placeholder</title>
+  <desc id="desc">Replace this placeholder with a real ARVEX cricket bat product photograph.</desc>
+  <rect width="1200" height="900" fill="#d8d6c8"/>
+  <path d="M90 105h1020M90 795h1020M90 105v690M1110 105v690" fill="none" stroke="#657400" stroke-width="3"/>
+  <text x="600" y="390" text-anchor="middle" fill="#111310" font-family="Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="8">ADD BAT PHOTO</text>
+  <text x="600" y="450" text-anchor="middle" fill="#657400" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">PUBLIC/ASSETS/PRODUCTS/CRICKET-BAT.JPG</text>
+</svg>
