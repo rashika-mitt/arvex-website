@@ -142,7 +142,7 @@ function App() {
         <section className="about-section" id="about"><div className="about-heading" data-reveal><p className="eyebrow"><span>04</span> ABOUT ARVEX</p><h2>THE GAME<br /><span>GOES ON.</span></h2></div><div className="about-copy" data-reveal><p className="about-lede">ARVEX is an independent cricket equipment brand for the long sessions, the sharp singles and the next generation of players.</p><p>We keep the focus where it belongs: dependable equipment, honest service and more reasons to get back on the field across India.</p><a className="text-link" href="#contact">Meet the brand <span>↗</span></a></div></section>
       </main>
 
-      <footer id="contact"><div className="footer-top"><div><Logo /><p>Cricket equipment for the way you play.</p></div><a className="footer-cta" href="mailto:hello@arvexsports.in">hello@arvexsports.in <span>↗</span></a></div><div className="footer-bottom"><span>© 2026 ARVEX SPORTS</span><span>MADE FOR EVERY INNINGS.</span><span>INDIA / 28.6139° N</span></div></footer>
+      <footer id="contact"><div className="footer-top"><div><Logo /><p>Cricket equipment for the way you play.</p></div><div className="contact-methods" aria-label="Contact details"><a className="footer-cta" href="tel:+918630864005"><span className="contact-label">Phone</span> +91 8630864005 <span>↗</span></a><a className="footer-cta" href="mailto:mittalbrothers2026@gmail.com"><span className="contact-label">Email</span> mittalbrothers2026@gmail.com <span>↗</span></a></div></div><div className="footer-bottom"><span>© 2026 ARVEX SPORTS</span><span>MADE FOR EVERY INNINGS.</span><span>INDIA / 28.6139° N</span></div></footer>
     </div>
   );
 }
